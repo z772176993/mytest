@@ -46,7 +46,7 @@ public class Generator {
 
 
 		/**
-		 *4 .包名配置
+		 *4 .包名配置11
 		 */
 		PackageConfig packageConfig = new PackageConfig();
 		packageConfig.setParent("com.myspring.project")//父包
